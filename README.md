@@ -11,4 +11,4 @@ The machine learning model is trained using various classification models like L
 Once the model is trained, it can be deployed as part of a cybersecurity system or integrated into existing applications. The model can be used to analyze URLs in real-time, providing instant feedback on their classification. This can be valuable in web browsers, security applications, or network gateways where proactive threat detection is crucial.
 
 # Results and Evaluation
-The model's performance can be evaluated using various metrics, such as accuracy, precision, recall, and F1 score. The best performing ones are Logistic regression, Random Forest.
+The model's performance can be evaluated using various metrics, such as accuracy, precision, recall, and F1 score. The best performing ones are Logistic regression and SVM.
